@@ -1,0 +1,27 @@
+{
+  "name": "simple-certificates-on-ethereum",
+  "version": "1.0.0",
+  "description": "Chainstack is multi-cloud, multi-protocol Platform-as-a-Service. It automates DevOps process for public and consortium blockchain development. You can configure and deploy Ethereum, Quorum or MultiChain node using any cloud provider of your choice just with a few clicks. You can try chainstack for free [here](https://console.chainstack.com/).",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "truffle-hdwallet-provider": "^1.0.9",
+    "web3": "^1.0.0-beta.55"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanspro/Simple-Certificates-on-ethereum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nanspro/Simple-Certificates-on-ethereum/issues"
+  },
+  "homepage": "https://github.com/nanspro/Simple-Certificates-on-ethereum#readme"
+}
